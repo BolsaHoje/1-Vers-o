@@ -16,7 +16,7 @@ MODELO DE NEGÓCIO:
 
 - Parcerias chaves: Público que tem interesse em aprender como funciona o mercado financeiro.
 
-- Canal de atendimento e suporte: Play store.
+- Canal de atendimento e suporte: Play store e Instagram.
  
 - Monetização: Anúncios e alguma outra funcionalidade futura que ainda será definida.
 
